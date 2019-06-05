@@ -8,7 +8,7 @@ class hello
 	  
 	  
 	  double tuna;
-	  tuna = 5.28;
+	  tuna = 5.28; 
 	  System.out.print("price of tuna £");
 	  System.out.println(tuna);
 	  System.out.println("apples");
