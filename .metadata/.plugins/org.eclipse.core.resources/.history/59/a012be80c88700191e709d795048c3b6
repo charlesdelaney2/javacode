@@ -3,8 +3,8 @@ class hello
 {
   public static void main(String args[]) 
   {
+	  System.in.print("Enter your name");
     System.out.println("Hello World!");
-    System.out.println("Hello World! again");
     
   }
 }
